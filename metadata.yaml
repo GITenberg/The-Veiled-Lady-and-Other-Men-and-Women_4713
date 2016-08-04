@@ -1,0 +1,30 @@
+_repo: The-Veiled-Lady-and-Other-Men-and-Women_4713
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Francis Hopkinson
+    alias: Smith, F. Hopkinson (Francis Hopkinson)
+    birthdate: 1838
+    deathdate: 1915
+    gutenberg_agent_id: '444'
+    url: http://www.gutenberg.org/2009/agents/444
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Hopkinson_Smith
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4713'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The veiled lady of Stamboul -- Loretta of the shipyard -- A coat
+  of red lead -- Miss Murdock --"special" -- The beguiling of Peter Griggs -- Miss
+  Jenning's companion -- Sam Joplin's epigastric nerve -- Miss Buffum's new boarder
+  -- Captain Joe and the "Susie Ann" -- "Against orders" -- Muggles's supreme moment.
+title: The Veiled Lady, and Other Men and Women
+url: http://www.gutenberg.org/ebooks/4713
